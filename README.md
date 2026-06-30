@@ -18,7 +18,7 @@
   <a href="https://github.com/SeaUgoEze">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="[https://your-portfolio.com](https://seaugoeze.github.io/)">
+  <a href="https://seaugoeze.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
