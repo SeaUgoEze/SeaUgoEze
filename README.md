@@ -27,26 +27,26 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Computing student at Queen's University** (Class of 2029) with a passion for building **AI-powered solutions** and **accessible software** that make a real-world impact. I'm driven by the intersection of **machine learning, user experience, and inclusive design**.
 
-### 🎓 Education
+###  Education
 - **Queen's University** — Bachelor of Computing *(2025-2029)* • GPA: 3.5+
 - **Saint John High School** — High School Diploma *(2023-2025)* • GPA: 4.0 • *High Honors Graduate (Top 5%)*
 
 ### 🎯 What I'm Focused On
-- 🤖 Building intelligent systems that solve real problems
-- 🌍 Creating inclusive, accessible technology for diverse communities
-- 🔬 Exploring the intersection of AI and human-centered design
-- 🚀 Contributing to open-source and hackathon projects
+-  Building intelligent systems that solve real problems
+-  Creating inclusive, accessible technology for diverse communities
+-  Exploring the intersection of AI and human-centered design
+-  Contributing to open-source and hackathon projects
 
 ### 💡 Fun Fact
 I co-founded the "Better You Club" in high school to promote mental health and wellness among students!
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -113,16 +113,16 @@ I co-founded the "Better You Club" in high school to promote mental health and w
 
 #### EDII Intern *(Nov 2025 - Apr 2026)*
 - Collaborated with teams to review, test, and evaluate software and AI-related tools for accessibility, inclusivity, and bias awareness
-- 💡 **Impact:** Improved accessibility by **400%** and saved **100+ hours weekly** through workflow optimizations
-- 🔍 Reviewed **15+** digital resources and communication materials for inclusivity
-- 📊 Reduced revision cycles for translated content by **20%** through structured feedback workflows
-- 🌍 Participated in testing AI-generated content and translation workflows to support multilingual inclusivity
+-  **Impact:** Improved accessibility by **400%** and saved **100+ hours weekly** through workflow optimizations
+-  Reviewed **15+** digital resources and communication materials for inclusivity
+-  Reduced revision cycles for translated content by **20%** through structured feedback workflows
+-  Participated in testing AI-generated content and translation workflows to support multilingual inclusivity
 
 #### Marketing Intern *(Aug 2025 - Apr 2026)*
 - Designed and published **10+** promotional graphics and event advertisements using **Figma** and **Canva**
-- 📈 Supported campaigns reaching **1,000+** students across computing-related platforms
-- 🤝 Collaborated with technical and non-technical teams to improve communication workflows
-- 🎨 Enhanced digital branding consistency and online student engagement strategies
+-  Supported campaigns reaching **1,000+** students across computing-related platforms
+-  Collaborated with technical and non-technical teams to improve communication workflows
+-  Enhanced digital branding consistency and online student engagement strategies
 
 ---
 
