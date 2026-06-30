@@ -3,22 +3,22 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Sean Ezeocha;Computing+Student+%40+Queen's;AI+%26+Accessibility+Enthusiast;Building+Impactful+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+SeanEzeocha;Computing+Student+%40+Queen's;AAI+%26+Accessibility+Enthusiastt;Building+Impactful+Tech" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:your.email@queensu.ca">
+  <a href="mailto:seanezeocha@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sean-ezeocha-424382276/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/SeaUgoEze">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="[https://your-portfolio.com](https://seaugoeze.github.io/)">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
